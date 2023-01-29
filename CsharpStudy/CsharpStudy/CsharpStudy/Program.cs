@@ -27,38 +27,67 @@ namespace CsharpStudy
             /// kkk -> 89 , 6, 456, 4
             //lang -> C# , C++ , C
 
-            //int형 배열 5칸짜리 5개
-            //stirng 형 배열 5칸짜리 5개
 
-            int[] iiii = new int[5] { 3, 4, 5, 6, 7 };
-            int[] iiiii = new int[5] { 8, 9, 10, 11, 12 };
-            int[] iiiiii = new int[5] { 13, 14, 15, 16, 17 };
-            int[] iiiiiii = new int[5] { 18, 19, 20, 21, 22 };
-            int[] iiiiiiii = new int[5] { 23, 24, 25, 26, 27 };
 
-            string[] aaaa = new string[5] { "A", "B", "C", "D", "E" };
-            string[] aaaaa = new string[5] { "A", "B", "C", "D", "E" };
-            string[] aaaaaa = new string[5] { "A", "B", "C", "D", "E" };
-            string[] aaaaaaa = new string[5] { "A", "B", "C", "D", "E" };
-            string[] aaaaaaaa = new string[5] { "A", "B", "C", "D", "E" };
 
-            int[] LaterArray;
 
-            System.Console.WriteLine("배열의 크기는?");
-            string ArraySize;
-            ArraySize = System.Console.ReadLine();
 
-            LaterArray = new int[Convert.ToInt32(ArraySize)];
+            //식당에 음식이 떡볶이, 김밥, 라면, 라볶이가 있다.
 
-            string[] _lang = new string[3];
-            _lang[0] = "c";
-            _lang[1] = "c++";
-            _lang[2] = "c#";
+            string[] _food = new string[4];
+            _food[0] = "떡볶이";
+            _food[1] = "김밥";
+            _food[2] = "라면";
+            _food[3] = "라볶이";
 
-            System.Console.WriteLine($"0번 값은 {_lang[0]}입니다");
-            _lang[0] = "나도 졸려";
 
-            System.Console.WriteLine($"0번 값은 {_lang[0]}입니다");
+
+
+            //이중에 숫자를 입력받으면
+            //입력받은 값은 비어있게된다.
+
+            System.Console.WriteLine($"1번 메뉴는 {_food[0]}입니다.");
+
+            System.Console.WriteLine($"2번 메뉴는 {_food[1]}입니다.");
+
+            System.Console.WriteLine($"3번 메뉴는 {_food[2]}입니다.");
+
+            System.Console.WriteLine($"4번 메뉴는 {_food[3]}입니다.");
+
+
+
+            //최초 음식들과
+            //숫자를 입력받았을때 음식을 출력하고
+
+
+            string Order;
+
+            System.Console.WriteLine("주문할 음식은?");
+            Order = System.Console.ReadLine();
+
+            int number = Convert.ToInt32(Order);
+
+            _food[number] = "";
+
+
+            System.Console.WriteLine($"1번 메뉴는 {_food[0]}입니다.");
+
+            System.Console.WriteLine($"2번 메뉴는 {_food[1]}입니다.");
+
+            System.Console.WriteLine($"3번 메뉴는 {_food[2]}입니다.");
+
+            System.Console.WriteLine($"4번 메뉴는 {_food[3]}입니다.");
+
+
+
+            //비어있게 되었다라는 결과값도 출력하라
+
+
+
+
+
+
+
 
 
             //1. 변수형 종류 주석으로 작성후, 각 변수형들의 최대값 최소값으로 출력하기
@@ -120,6 +149,7 @@ namespace CsharpStudy
             //이름을 입력받는다.
             //입력받은 이름의 길이를 숫자로 바꾸고
             //받은 숫자를 출력한다.
+
 
         }
     }
