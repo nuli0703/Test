@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\김누리\2023.01.29\Test\CsharpStudy\CsharpStudy\CsharpStudy\obj\Debug\CsharpStudy.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\김누리\2023.01.29\Test\CsharpStudy\CsharpStudy\CsharpStudy\obj\Debug\CsharpStudy.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\김누리\2023.01.29\Test\CsharpStudy\CsharpStudy\CsharpStudy\bin\Debug\CsharpStudy.exe.config
+C:\Users\admin\Desktop\김누리\2023.01.29\Test\CsharpStudy\CsharpStudy\CsharpStudy\bin\Debug\CsharpStudy.exe
+C:\Users\admin\Desktop\김누리\2023.01.29\Test\CsharpStudy\CsharpStudy\CsharpStudy\bin\Debug\CsharpStudy.pdb
+C:\Users\admin\Desktop\김누리\2023.01.29\Test\CsharpStudy\CsharpStudy\CsharpStudy\obj\Debug\CsharpStudy.exe
+C:\Users\admin\Desktop\김누리\2023.01.29\Test\CsharpStudy\CsharpStudy\CsharpStudy\obj\Debug\CsharpStudy.pdb
