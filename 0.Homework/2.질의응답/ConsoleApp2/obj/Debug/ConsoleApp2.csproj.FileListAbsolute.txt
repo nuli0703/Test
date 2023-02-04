@@ -1,0 +1,7 @@
+I:\New Project\0.Homework\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+I:\New Project\0.Homework\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+I:\New Project\0.Homework\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+I:\New Project\0.Homework\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+I:\New Project\0.Homework\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+I:\New Project\0.Homework\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+I:\New Project\0.Homework\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
