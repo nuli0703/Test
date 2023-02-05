@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\김누리\2023.02.05\1\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\admin\Desktop\김누리\2023.02.05\1\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\admin\Desktop\김누리\2023.02.05\1\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\admin\Desktop\김누리\2023.02.05\1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\김누리\2023.02.05\1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\김누리\2023.02.05\1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\admin\Desktop\김누리\2023.02.05\1\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
