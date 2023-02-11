@@ -1,0 +1,7 @@
+I:\New Project\0.Homework\2주차\1.계산기\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+I:\New Project\0.Homework\2주차\1.계산기\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+I:\New Project\0.Homework\2주차\1.계산기\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+I:\New Project\0.Homework\2주차\1.계산기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+I:\New Project\0.Homework\2주차\1.계산기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\New Project\0.Homework\2주차\1.계산기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+I:\New Project\0.Homework\2주차\1.계산기\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
