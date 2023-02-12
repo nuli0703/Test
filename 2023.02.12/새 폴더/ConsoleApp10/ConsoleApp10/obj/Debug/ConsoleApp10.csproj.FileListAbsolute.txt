@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\김누리\2023.02.12\2023.02.12\새 폴더\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\admin\Desktop\김누리\2023.02.12\2023.02.12\새 폴더\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\admin\Desktop\김누리\2023.02.12\2023.02.12\새 폴더\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\admin\Desktop\김누리\2023.02.12\2023.02.12\새 폴더\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\김누리\2023.02.12\2023.02.12\새 폴더\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\김누리\2023.02.12\2023.02.12\새 폴더\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\admin\Desktop\김누리\2023.02.12\2023.02.12\새 폴더\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
