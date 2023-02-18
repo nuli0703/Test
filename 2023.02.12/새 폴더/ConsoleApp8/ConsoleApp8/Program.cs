@@ -27,7 +27,6 @@ namespace ConsoleApp8
         }
         class shop
         {
-            protected 
             protected int[] menusPrice;
             
 
@@ -36,6 +35,10 @@ namespace ConsoleApp8
             {
                 System.Console.WriteLine($"돈 내기 : {money}")
             }
+
+
+
+
             public void OrderMenu(int number)
             {
                 System.Console.WriteLine($"주문 : {menus[number]}");
@@ -44,7 +47,7 @@ namespace ConsoleApp8
             }
             public void ShowMenu()
             {
-
+                for (int i = 0; i < menusPric)
 
             }
         }
