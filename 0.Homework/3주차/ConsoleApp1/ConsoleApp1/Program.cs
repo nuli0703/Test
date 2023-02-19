@@ -12,12 +12,12 @@ namespace ConsoleApp1
         {
             public virtual string[] GetMenu()
             {
-                return null; // 실제 메뉴 정보를 갖는 배열로 대체되어야 함
+                return null;
             }
 
             public virtual int ChargeMoney(string menu)
             {
-                return 0; // 실제 가격 정보를 계산하여 반환해야 함
+                return 0;
             }
 
             public virtual void ServeFood(string menu)
