@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\김누리\2023.02.26\2023.02.26\GameDev\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\admin\Desktop\김누리\2023.02.26\2023.02.26\GameDev\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\admin\Desktop\김누리\2023.02.26\2023.02.26\GameDev\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\admin\Desktop\김누리\2023.02.26\2023.02.26\GameDev\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\김누리\2023.02.26\2023.02.26\GameDev\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\김누리\2023.02.26\2023.02.26\GameDev\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\admin\Desktop\김누리\2023.02.26\2023.02.26\GameDev\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
